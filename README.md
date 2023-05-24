@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=d4v1d16&label=Profile%20views&color=0e75b6&style=flat" alt="d4v1d16" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=d4v1d16" alt="d4v1d16" /></a> </p>
-
--     Hackerrank profile:https://www.hackerrank.com/davidsantiagoji1?hr_r=1
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=d4v1d16" alt="d4v1d16" /></a> </p>   
 
 - 🌱 I’m currently learning **Django,ASP.NET**
 
