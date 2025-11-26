@@ -4,14 +4,14 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+David+Jimenez!;" />
 </h1>
 
-<h3 align="center">A passionate BackEnd Developer from Colombia</h3>
+<h3 align="center">A passionate Data Engineer from Colombia</h3>
 
 <br/>
 
 <div align="center">
  
- 🌱 I’m currently learning **NodeJS,Docker,AWS**
- 🤖 Also Learning about DataScience and AI
+ 🌱 I’m currently learning **Spark,Airflow,Fabric,Databricks**
+ 🤖 Also Learning about AI
 
  </div>
  
